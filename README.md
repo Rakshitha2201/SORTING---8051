@@ -123,10 +123,10 @@ END
 **Before execution:**
 D:0x40H:
 
-<img width="1919" height="1079" alt="Screenshot 2025-10-03 093252" src="https://github.com/user-attachments/assets/c122135d-816f-4cb9-89ff-2ad27256e3cd" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-03 093252" src="https://github.com/user-attachments/assets/c122135d-816f-4cb9-89ff-2ad27256e3cd" />  
 
 After execution:
-D:0x40H:
+D:0x40H:  
 
 <img width="1919" height="1079" alt="Screenshot 2025-10-03 093136" src="https://github.com/user-attachments/assets/1e8cc2c5-9a05-447c-9943-c0b06a25af71" />
 
